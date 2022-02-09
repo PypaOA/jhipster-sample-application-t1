@@ -1,0 +1,31 @@
+{
+  "t1App": {
+    "cd": {
+      "home": {
+        "title": "Cds",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Cd",
+        "createOrEditLabel": "Create or edit a Cd",
+        "notFound": "No Cds found"
+      },
+      "created": "A new Cd is created with identifier {{ param }}",
+      "updated": "A Cd is updated with identifier {{ param }}",
+      "deleted": "A Cd is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Cd {{ id }}?"
+      },
+      "detail": {
+        "title": "Cd"
+      },
+      "id": "ID",
+      "name": "Name",
+      "performer": "Performer",
+      "releaseYear": "Release Year",
+      "discCount": "Disc Count",
+      "medium": "Medium",
+      "label": "Label",
+      "state": "State",
+      "added": "Added"
+    }
+  }
+}
